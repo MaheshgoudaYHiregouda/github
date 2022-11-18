@@ -2,7 +2,7 @@ package practice;
 
 public class hai {
 	public static void main(String[] args) {
-		System.out.println("hahi bye");
+		System.out.println("hahi bye h");
 	}
 
 }
